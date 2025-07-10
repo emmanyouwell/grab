@@ -1,5 +1,8 @@
-
-# <img src="https://api.geniex.tech/assets/images/gnx_logo.png" alt="GenieX Logo" height="40"/> GenieX Grab Plugin Deployment Setup
+<h2 align="center">
+  <img src="https://api.geniex.tech/assets/images/gnx_logo.png" alt="GenieX Logo" height="40"/>
+  <br>
+  <b>GenieX Grab Plugin Deployment Setup</b>
+</h2>
 
 In this guide, you will learn how to set up and deploy the backend service with a MySQL database. By the end, you’ll have a robust environment that runs in the background and persists even after system reboots.
 
